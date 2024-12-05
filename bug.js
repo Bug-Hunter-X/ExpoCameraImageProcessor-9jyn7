@@ -1,0 +1,1 @@
+This bug occurs when using the Expo `Camera` API with custom image processing. The issue is that when processing images from the Camera component, the image data sometimes gets corrupted, resulting in unexpected visual artifacts or crashes. This is intermittent and doesn't happen consistently, making it difficult to debug.
